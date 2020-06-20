@@ -1,0 +1,9 @@
+# Intelli J config
+*.idea
+*.settings
+
+# Build folder
+build/
+
+# XML
+*.iml
